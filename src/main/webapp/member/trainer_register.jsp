@@ -29,7 +29,8 @@
     <link rel="stylesheet" href="../css/flaticon.css">
     <link rel="stylesheet" href="../css/icomoon.css">
     <link rel="stylesheet" href="../css/style.css">
-    
+  	<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script> 		   
+    <script type="text/javascript" src="trainer_CheckForm.js"></script>  
     <script type="text/javascript">
  function CheckId() {
 //		alert("함수호출");
